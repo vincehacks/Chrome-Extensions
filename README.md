@@ -8,6 +8,7 @@ Building Chrome Extensions Here!
 
 - Description: This Google Chrome extension was built so others could access my
   social media easily. This was the first Chrome Extension built for practice.
+  ![Final Product](https://github.com/vincehacks/Chrome-Extensions/blob/master/vincehacks/FinalProduct.png)
 
 #### SETTING UP MANIFEST.JSON
 
