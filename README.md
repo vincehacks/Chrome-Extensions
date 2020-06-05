@@ -10,6 +10,19 @@ Building Chrome Extensions Here!
   social media easily. This was the first Chrome Extension built for practice.
   ![Final Product](https://github.com/vincehacks/Chrome-Extensions/blob/master/vincehacks/FinalProduct.png)
 
+#### BUDGET MANAGER CHROME EXTENSION
+
+- Description: This Google Chrome extension was built to accept spending,
+  display total spending, limit and notify if reached and option to reset total
+  and limit
+  ![Final Product](https://github.com/vincehacks/Chrome-Extensions/blob/master/vincehacks/FinalProduct.png)
+
+#### HELLO WORLD CHROME EXTENSION
+
+- Description: This Google Chrome extension was built to demonstrate a simple
+  Chrome extension that can be used along with Jquery to update text when typed
+  ![Final Product](https://github.com/vincehacks/Chrome-Extensions/blob/master/vincehacks/FinalProduct.png)
+
 #### SETTING UP MANIFEST.JSON
 
 - Every Chrome Extension needs a `manifest.json`
@@ -32,10 +45,63 @@ Building Chrome Extensions Here!
 `"icons": { "128": "icon128.png" }`
 `"browser_action": { "default_icon": "icon.png", "default_popup": "popup.html" }`
 `popup.html` is the file to be used to show the markup
-`"permissions": ["activeTab"]`
+`"permissions": ["activeTab"]` Need to say what in the Chrome API do you need
+permissions to
 }
 
 #### USEFUL LINKS
 
 [Download Font Awesome](https://www.bootstrapcdn.com/fontawesome/)
 [Google's Manifest.json](https://developer.chrome.com/extensions/manifest)
+
+#### THE BIG PICTURE
+
+There are 4 files needed in a Chrome Extension:
+
+1. manifest.json
+2. HTML
+3. CSS
+4. JavaScript
+
+Which are all bundled into a `.crx` zipped file that can be placed onto the
+Chrome Web Store
+
+#### EXTENSION TYPES
+
+1. Browser Action
+
+- Stay in tool bar
+- Accessible at all times
+
+2. Page Action
+
+- Stay in tool bar but grey-ed out
+- Accessible only on certain pages
+- Ex. Ebates
+
+3. Neither BA or PA
+
+- Runs in the background
+
+#### MANIFEST.JSON
+
+- Information about the extension
+- Json format
+- Mandatory!
+  - Manifest Version
+  - Name of the extension
+  - Version of the extension
+
+#### CHROME STORAGE APIs
+
+- A place for you to store values within variables
+- When you click on the a button, it will utilize the Chrome API to store
+- All Chrome APIs are asynchronous
+
+#### OPTIONS PAGE
+
+- Right clicking on the icon
+- HTML, CSS and JS
+- Budget Manager
+  - Set a Limit
+  - Reset a Total
