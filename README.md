@@ -15,10 +15,10 @@ Building Chrome Extensions Here!
 - Description: This Google Chrome extension was built to accept spending,
   display total spending, limit and notify if reached and option to reset total
   and limit</br>
-  ![Final Product](https://github.com/vincehacks/Chrome-Extensions/blob/master/budgetmanager/FinalProduct.png)
-  ![Final Product](https://github.com/vincehacks/Chrome-Extensions/blob/master/budgetmanager/FinalProduct1.png)
-  ![Final Product](https://github.com/vincehacks/Chrome-Extensions/blob/master/budgetmanager/FinalProduct2.png)
-  ![Final Product](https://github.com/vincehacks/Chrome-Extensions/blob/master/budgetmanager/FinalProduct3.png)
+  ![Final Product](https://github.com/vincehacks/Chrome-Extensions/blob/master/budgetmanager/FinalProduct.png) </hr>
+  ![Final Product](https://github.com/vincehacks/Chrome-Extensions/blob/master/budgetmanager/FinalProduct1.png) </hr>
+  ![Final Product](https://github.com/vincehacks/Chrome-Extensions/blob/master/budgetmanager/FinalProduct2.png) </hr>
+  ![Final Product](https://github.com/vincehacks/Chrome-Extensions/blob/master/budgetmanager/FinalProduct3.png) </hr>
 
 #### HELLO WORLD CHROME EXTENSION
 
