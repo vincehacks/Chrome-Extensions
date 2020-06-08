@@ -4,13 +4,13 @@ Created by Vince Chang </br>
 
 Building Chrome Extensions Here!
 
-#### VINCEHACKS SOCIAL MEDIA CHROME EXTENSION
+### VINCEHACKS SOCIAL MEDIA CHROME EXTENSION
 
 - Description: This Google Chrome extension was built so others could access my
   social media easily. This was the first Chrome Extension built for practice.
   ![Final Product](https://github.com/vincehacks/Chrome-Extensions/blob/master/vincehacks/FinalProduct.png)
 
-#### BUDGET MANAGER CHROME EXTENSION
+### BUDGET MANAGER CHROME EXTENSION
 
 - Description: This Google Chrome extension was built to accept spending,
   display total spending, limit and notify if reached and option to reset total
@@ -20,19 +20,19 @@ Building Chrome Extensions Here!
   ![Final Product](https://github.com/vincehacks/Chrome-Extensions/blob/master/budgetmanager/FinalProduct2.png) <hr/>
   ![Final Product](https://github.com/vincehacks/Chrome-Extensions/blob/master/budgetmanager/FinalProduct3.png) <hr/>
 
-#### PAGE FONT STYLE CHROME EXTENSION
+### PAGE FONT STYLE CHROME EXTENSION
 
 - Description: This Google Chrome extension will only enable the chrome
   extension when visiting https://developer.chrome.com/*
   The user will be able to edit the font styles on any subset of this url
   ![Final Product](https://github.com/vincehacks/Chrome-Extensions/blob/master/pagefontstyle/FinalProuduct.png) <hr/>
 
-#### HELLO WORLD CHROME EXTENSION
+### HELLO WORLD CHROME EXTENSION
 
 - Description: This Google Chrome extension was built to demonstrate a simple
   Chrome extension that can be used along with Jquery to update text when typed
 
-#### SETTING UP MANIFEST.JSON
+### SETTING UP MANIFEST.JSON
 
 - Every Chrome Extension needs a `manifest.json`
 
