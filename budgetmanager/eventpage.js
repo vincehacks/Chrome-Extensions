@@ -4,13 +4,12 @@
 
 var contextMenuItem = {
   "id": "spendMoney",
-  "title": "SpendMoney", // When you right click on the web page
+  "title": "Spend Money", // When you right click on the web page
   "contexts": ["selection"] // This is the context when this appears, so only
   // when the user selects something on the web page (there are others to
   // choose from so look at documentation)
 };
 chrome.contextMenus.create(contextMenuItem);
-
 
 function isInt(value) {
   return !isNaN(value) &&

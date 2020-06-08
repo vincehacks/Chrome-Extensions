@@ -20,6 +20,13 @@ Building Chrome Extensions Here!
   ![Final Product](https://github.com/vincehacks/Chrome-Extensions/blob/master/budgetmanager/FinalProduct2.png) <hr/>
   ![Final Product](https://github.com/vincehacks/Chrome-Extensions/blob/master/budgetmanager/FinalProduct3.png) <hr/>
 
+#### PAGE FONT STYLE CHROME EXTENSION
+
+- Description: This Google Chrome extension will only enable the chrome
+  extension when visiting https://developer.chrome.com/*
+  The user will be able to edit the font styles on any subset of this url
+  ![Final Product](https://github.com/vincehacks/Chrome-Extensions/blob/master/pagefontstyle/FinalProduct.png) <hr/>
+
 #### HELLO WORLD CHROME EXTENSION
 
 - Description: This Google Chrome extension was built to demonstrate a simple
@@ -130,3 +137,17 @@ Chrome Web Store
   - Ex. ad blocker shows how many ads are blocked on a page without you having
     to open and click on the Chrome extension
 - This is going to be using a listener and using a different Chrome API
+
+#### PAGE ACTION EXTENSION
+
+- Works only on specific pages
+- This is something like what Ebates does, only on websites of their partners,
+  will this extension only work
+
+#### CONTENT SCRIPTS
+
+- Files that run in the context of the webpage
+- Can change the DOM
+- Ex. Font color, hyperlinks, structure of the nodes in the DOM Tree
+- Limitation: Can't use all Chrome APIs
+- Exchange messages between content scrips, background scripts, popup scripts
