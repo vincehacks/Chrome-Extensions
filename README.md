@@ -25,7 +25,7 @@ Building Chrome Extensions Here!
 - Description: This Google Chrome extension will only enable the chrome
   extension when visiting https://developer.chrome.com/*
   The user will be able to edit the font styles on any subset of this url
-  ![Final Product](https://github.com/vincehacks/Chrome-Extensions/blob/master/pagefontstyle/FinalProduct.png) <hr/>
+  ![Final Product](https://github.com/vincehacks/Chrome-Extensions/blob/master/pagefontstyle/FinalProuduct.png) <hr/>
 
 #### HELLO WORLD CHROME EXTENSION
 
