@@ -32,7 +32,7 @@ Building Chrome Extensions Here!
 - Description: This Google Chrome extension was built to demonstrate a simple
   Chrome extension that can be used along with Jquery to update text when typed
 
-### SETTING UP MANIFEST.JSON
+#### SETTING UP MANIFEST.JSON
 
 - Every Chrome Extension needs a `manifest.json`
 
