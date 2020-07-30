@@ -9,7 +9,7 @@ Building Chrome Extensions Here!
 - Description: This Google Chrome extension was built so others could access my
   social media easily. This was the first Chrome Extension built for practice.
   <p align="center">
-  <img src="https://github.com/vincehacks/Chrome-Extensions/blob/master/vincehacks/FinalProduct.png" />
+  <img src="https://github.com/vincehacks/Chrome-Extensions/blob/master/vincehacks/FinalProduct.png"/>
   </p>
 
 ### BUDGET MANAGER CHROME EXTENSION
@@ -19,9 +19,15 @@ Building Chrome Extensions Here!
   and limit. </br>
   <p align="center">
   <img src="https://github.com/vincehacks/Chrome-Extensions/blob/master/budgetmanager/FinalProduct.png" />
-  <img src="https://github.com/vincehacks/Chrome-Extensions/blob/master/budgetmanager/FinalProduct1.png" />
-  <img src="https://github.com/vincehacks/Chrome-Extensions/blob/master/budgetmanager/FinalProduct2.png" />
-  <img src="https://github.com/vincehacks/Chrome-Extensions/blob/master/budgetmanager/FinalProduct3.png" />
+  </p>
+  <p align="center">
+  <img src="https://github.com/vincehacks/Chrome-Extensions/blob/master/budgetmanager/FinalProduct1.png"/>
+  </p>
+  <p align="center">
+  <img src="https://github.com/vincehacks/Chrome-Extensions/blob/master/budgetmanager/FinalProduct2.png"/>
+  </p>
+  <p align="center">
+  <img src="https://github.com/vincehacks/Chrome-Extensions/blob/master/budgetmanager/FinalProduct3.png"/>
   </p>
 
 ### PAGE FONT STYLE CHROME EXTENSION
@@ -30,7 +36,7 @@ Building Chrome Extensions Here!
   extension when visiting https://developer.chrome.com/*
   The user will be able to edit the font styles on any subset of this url
   <p align="center">
-  <img src="https://github.com/vincehacks/Chrome-Extensions/blob/master/pagefontstyle/FinalProuduct.png" />
+  <img src="https://github.com/vincehacks/Chrome-Extensions/blob/master/pagefontstyle/FinalProuduct.png"/>
   </p>
 
 ### HELLO WORLD CHROME EXTENSION
