@@ -1,4 +1,4 @@
-# Chrome-Extensions
+# CHROME-EXTENSIONS
 
 Created by Vince Chang </br>
 
@@ -8,24 +8,30 @@ Building Chrome Extensions Here!
 
 - Description: This Google Chrome extension was built so others could access my
   social media easily. This was the first Chrome Extension built for practice.
-  ![Final Product](https://github.com/vincehacks/Chrome-Extensions/blob/master/vincehacks/FinalProduct.png)
+  <p align="center">
+  <img src="https://github.com/vincehacks/Chrome-Extensions/blob/master/vincehacks/FinalProduct.png" />
+  </p>
 
 ### BUDGET MANAGER CHROME EXTENSION
 
 - Description: This Google Chrome extension was built to accept spending,
   display total spending, limit and notify if reached and option to reset total
   and limit. </br>
-  ![Final Product](https://github.com/vincehacks/Chrome-Extensions/blob/master/budgetmanager/FinalProduct.png) <hr/>
-  ![Final Product](https://github.com/vincehacks/Chrome-Extensions/blob/master/budgetmanager/FinalProduct1.png) <hr/>
-  ![Final Product](https://github.com/vincehacks/Chrome-Extensions/blob/master/budgetmanager/FinalProduct2.png) <hr/>
-  ![Final Product](https://github.com/vincehacks/Chrome-Extensions/blob/master/budgetmanager/FinalProduct3.png) <hr/>
+  <p align="center">
+  <img src="https://github.com/vincehacks/Chrome-Extensions/blob/master/budgetmanager/FinalProduct.png" />
+  <img src="https://github.com/vincehacks/Chrome-Extensions/blob/master/budgetmanager/FinalProduct1.png" />
+  <img src="https://github.com/vincehacks/Chrome-Extensions/blob/master/budgetmanager/FinalProduct2.png" />
+  <img src="https://github.com/vincehacks/Chrome-Extensions/blob/master/budgetmanager/FinalProduct3.png" />
+  </p>
 
 ### PAGE FONT STYLE CHROME EXTENSION
 
 - Description: This Google Chrome extension will only enable the chrome
   extension when visiting https://developer.chrome.com/*
   The user will be able to edit the font styles on any subset of this url
-  ![Final Product](https://github.com/vincehacks/Chrome-Extensions/blob/master/pagefontstyle/FinalProuduct.png) <hr/>
+  <p align="center">
+  <img src="https://github.com/vincehacks/Chrome-Extensions/blob/master/pagefontstyle/FinalProuduct.png" />
+  </p>
 
 ### HELLO WORLD CHROME EXTENSION
 
